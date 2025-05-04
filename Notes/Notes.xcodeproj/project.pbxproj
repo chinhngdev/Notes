@@ -14,7 +14,7 @@
 		348AAC7F2DC71C9600230A07 /* Exceptions for "Notes" folder in "Notes" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 348AAC6C2DC71C9400230A07 /* Notes */;
 		};
