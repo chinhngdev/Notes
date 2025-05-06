@@ -15,4 +15,6 @@
 
 3. [Configure & Open a Realm](https://www.mongodb.com/docs/atlas/device-sdks/sdk/swift/realm-files/configure-and-open-a-realm/#std-label-ios-configure-and-open-a-realm)
 
-## Sync data across devices
+> ### ❌ **Note:**
+> Đang dừng lại ở phần này
+> Nguyên nhân: do phát hiện `Atlas Device SDKs` sắp ngưng hỗ trợ, điều này không cho phép đồng bộ dữ liệu giữa các thiết bị
